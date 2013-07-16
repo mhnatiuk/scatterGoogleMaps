@@ -1,0 +1,5 @@
+export(construct.geocode.url)
+export(geotagDataframe)
+export(get_point_colors)
+export(gGeoCode)
+export(plotOnGoogleMap)

@@ -1,0 +1,15 @@
+Package: scatterGoogleMaps
+Title: R package for creating plots on google maps
+Description: Visualize variable data on google maps
+Version: 0.1
+Author: Mikolaj Hnatiuk <mikolaj.hnatiuk@gmail.com>
+Maintainer: Mikolaj Hnatiuk <mikolaj.hnatiuk@gmail.com>
+License: GPLv2
+Depends:
+    R,
+    RgoogleMaps,
+    classInt,
+    RColorBrewer,
+    RCurl,RJSONIO
+Collate:
+    'scatterGoogleMaps.R'
